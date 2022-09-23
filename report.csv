@@ -1,0 +1,64 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1663958398015,1608,POST Sign In JSON,200,OK,performance testing 1-1,text,true,,837,299,1,1,https://qauto2.forstudy.space/api/auth/signin,1604,0,1031
+1663958399672,63,GET cars,200,OK,performance testing 1-1,text,true,,322,348,1,1,https://qauto2.forstudy.space/api/cars?user=7512,62,0,0
+1663958400037,80,POST Add car,201,Created,performance testing 1-1,text,true,,534,427,2,2,https://qauto2.forstudy.space/api/cars,80,0,0
+1663958400119,493,Remove Car,200,OK,performance testing 1-1,text,true,,335,366,2,2,https://qauto2.forstudy.space/api/cars/69868,493,0,0
+1663958399933,681,POST Sign In JSON,200,OK,performance testing 1-2,text,true,,841,299,2,2,https://qauto2.forstudy.space/api/auth/signin,681,0,133
+1663958400615,73,GET cars,200,OK,performance testing 1-2,text,true,,322,352,2,2,https://qauto2.forstudy.space/api/cars?user=7512,73,0,0
+1663958400613,93,Log Out,200,OK,performance testing 1-1,text,true,,497,345,2,2,https://qauto2.forstudy.space/api/auth/logout,93,0,0
+1663958400709,662,POST Sign In JSON,200,OK,performance testing 1-1,text,true,,837,299,2,2,https://qauto2.forstudy.space/api/auth/signin,662,0,129
+1663958400988,387,POST Add car,201,Created,performance testing 1-2,text,true,,534,431,2,2,https://qauto2.forstudy.space/api/cars,387,0,0
+1663958401376,59,Remove Car,200,OK,performance testing 1-2,text,true,,335,370,2,2,https://qauto2.forstudy.space/api/cars/69869,59,0,0
+1663958401436,72,Log Out,200,OK,performance testing 1-2,text,true,,497,349,2,2,https://qauto2.forstudy.space/api/auth/logout,71,0,0
+1663958401509,672,POST Sign In JSON,200,OK,performance testing 1-2,text,true,,839,299,2,2,https://qauto2.forstudy.space/api/auth/signin,672,0,130
+1663958401674,514,POST Add car,201,Created,performance testing 1-1,text,true,,534,427,2,2,https://qauto2.forstudy.space/api/cars,514,0,0
+1663958402188,59,Remove Car,200,OK,performance testing 1-1,text,true,,335,366,2,2,https://qauto2.forstudy.space/api/cars/69870,59,0,0
+1663958402248,672,POST Sign In JSON,200,OK,performance testing 1-1,text,true,,668,471,2,2,https://qauto2.forstudy.space/api/auth/signin,672,0,126
+1663958402482,446,POST Add car,201,Created,performance testing 1-2,text,true,,534,429,2,2,https://qauto2.forstudy.space/api/cars,446,0,0
+1663958402928,64,Remove Car,200,OK,performance testing 1-2,text,true,,335,368,2,2,https://qauto2.forstudy.space/api/cars/69871,64,0,0
+1663958402993,896,POST Sign In JSON,200,OK,performance testing 1-2,text,true,,668,473,2,2,https://qauto2.forstudy.space/api/auth/signin,896,0,125
+1663958403222,681,POST Add car,201,Created,performance testing 1-1,text,true,,534,427,2,2,https://qauto2.forstudy.space/api/cars,681,0,0
+1663958403904,58,Remove Car,200,OK,performance testing 1-1,text,true,,335,366,3,3,https://qauto2.forstudy.space/api/cars/69872,58,0,0
+1663958403932,1154,POST Sign In JSON,200,OK,performance testing 1-3,text,true,,837,299,3,3,https://qauto2.forstudy.space/api/auth/signin,1154,0,132
+1663958403964,1129,POST Sign In JSON,200,OK,performance testing 1-1,text,true,,668,471,3,3,https://qauto2.forstudy.space/api/auth/signin,1128,0,128
+1663958404190,907,POST Add car,201,Created,performance testing 1-2,text,true,,534,429,3,3,https://qauto2.forstudy.space/api/cars,907,0,0
+1663958405087,60,GET cars,200,OK,performance testing 1-3,text,true,,531,348,3,3,https://qauto2.forstudy.space/api/cars?user=7512,60,0,0
+1663958405098,66,Remove Car,200,OK,performance testing 1-2,text,true,,335,368,3,3,https://qauto2.forstudy.space/api/cars/69873,66,0,0
+1663958405165,713,POST Sign In JSON,200,OK,performance testing 1-2,text,true,,668,473,3,3,https://qauto2.forstudy.space/api/auth/signin,713,0,125
+1663958405393,496,POST Add car,201,Created,performance testing 1-1,text,true,,534,427,3,3,https://qauto2.forstudy.space/api/cars,496,0,0
+1663958405447,442,POST Add car,201,Created,performance testing 1-3,text,true,,534,427,3,3,https://qauto2.forstudy.space/api/cars,442,0,0
+1663958405889,66,Remove Car,200,OK,performance testing 1-1,text,true,,335,366,3,3,https://qauto2.forstudy.space/api/cars/69874,66,0,0
+1663958405889,66,Remove Car,200,OK,performance testing 1-3,text,true,,335,366,3,3,https://qauto2.forstudy.space/api/cars/69875,66,0,0
+1663958405955,75,Log Out,200,OK,performance testing 1-3,text,true,,497,345,3,3,https://qauto2.forstudy.space/api/auth/logout,75,0,0
+1663958405956,1219,POST Sign In JSON,200,OK,performance testing 1-1,text,true,,668,471,3,3,https://qauto2.forstudy.space/api/auth/signin,1219,0,127
+1663958406031,1155,POST Sign In JSON,200,OK,performance testing 1-3,text,true,,837,299,3,3,https://qauto2.forstudy.space/api/auth/signin,1155,0,131
+1663958406180,1011,POST Add car,201,Created,performance testing 1-2,text,true,,534,429,3,3,https://qauto2.forstudy.space/api/cars,1011,0,0
+1663958407191,60,Remove Car,200,OK,performance testing 1-2,text,true,,335,368,3,3,https://qauto2.forstudy.space/api/cars/69876,60,0,0
+1663958407252,672,POST Sign In JSON,200,OK,performance testing 1-2,text,true,,668,473,3,3,https://qauto2.forstudy.space/api/auth/signin,672,0,126
+1663958407476,458,POST Add car,201,Created,performance testing 1-1,text,true,,534,427,2,2,https://qauto2.forstudy.space/api/cars,458,0,0
+1663958407488,451,POST Add car,201,Created,performance testing 1-3,text,true,,534,427,2,2,https://qauto2.forstudy.space/api/cars,451,0,0
+1663958407934,61,Remove Car,200,OK,performance testing 1-1,text,true,,335,366,2,2,https://qauto2.forstudy.space/api/cars/69877,61,0,0
+1663958407939,60,Remove Car,200,OK,performance testing 1-3,text,true,,335,366,2,2,https://qauto2.forstudy.space/api/cars/69878,60,0,0
+1663958407999,1179,POST Sign In JSON,200,OK,performance testing 1-3,text,true,,668,471,2,2,https://qauto2.forstudy.space/api/auth/signin,1179,0,123
+1663958407995,1188,POST Sign In JSON,200,OK,performance testing 1-1,text,true,,668,471,2,2,https://qauto2.forstudy.space/api/auth/signin,1188,0,127
+1663958409479,81,POST Add car,201,Created,performance testing 1-3,text,true,,534,427,2,2,https://qauto2.forstudy.space/api/cars,81,0,0
+1663958409484,79,POST Add car,201,Created,performance testing 1-1,text,true,,534,427,2,2,https://qauto2.forstudy.space/api/cars,79,0,0
+1663958409561,60,Remove Car,200,OK,performance testing 1-3,text,true,,335,366,2,2,https://qauto2.forstudy.space/api/cars/69879,60,0,0
+1663958409564,60,Remove Car,200,OK,performance testing 1-1,text,true,,335,366,2,2,https://qauto2.forstudy.space/api/cars/69880,60,0,0
+1663958409623,1170,POST Sign In JSON,200,OK,performance testing 1-3,text,true,,668,471,2,2,https://qauto2.forstudy.space/api/auth/signin,1169,0,135
+1663958409625,1182,POST Sign In JSON,200,OK,performance testing 1-1,text,true,,668,471,2,2,https://qauto2.forstudy.space/api/auth/signin,1182,0,205
+1663958411094,68,POST Add car,201,Created,performance testing 1-3,text,true,,534,427,2,2,https://qauto2.forstudy.space/api/cars,68,0,0
+1663958411109,70,POST Add car,201,Created,performance testing 1-1,text,true,,534,427,2,2,https://qauto2.forstudy.space/api/cars,70,0,0
+1663958411162,63,Remove Car,200,OK,performance testing 1-3,text,true,,335,366,2,2,https://qauto2.forstudy.space/api/cars/69881,63,0,0
+1663958411179,58,Remove Car,200,OK,performance testing 1-1,text,true,,335,366,2,2,https://qauto2.forstudy.space/api/cars/69882,58,0,0
+1663958411226,1138,POST Sign In JSON,200,OK,performance testing 1-3,text,true,,668,471,2,2,https://qauto2.forstudy.space/api/auth/signin,1138,0,121
+1663958411238,1135,POST Sign In JSON,200,OK,performance testing 1-1,text,true,,668,471,2,2,https://qauto2.forstudy.space/api/auth/signin,1135,0,123
+1663958412666,66,POST Add car,201,Created,performance testing 1-3,text,true,,534,427,2,2,https://qauto2.forstudy.space/api/cars,66,0,0
+1663958412674,71,POST Add car,201,Created,performance testing 1-1,text,true,,534,427,2,2,https://qauto2.forstudy.space/api/cars,71,0,0
+1663958412733,57,Remove Car,200,OK,performance testing 1-3,text,true,,335,366,2,2,https://qauto2.forstudy.space/api/cars/69883,57,0,0
+1663958412745,62,Remove Car,200,OK,performance testing 1-1,text,true,,335,366,2,2,https://qauto2.forstudy.space/api/cars/69884,62,0,0
+1663958412791,1139,POST Sign In JSON,200,OK,performance testing 1-3,text,true,,668,471,2,2,https://qauto2.forstudy.space/api/auth/signin,1138,0,128
+1663958412808,1125,POST Sign In JSON,200,OK,performance testing 1-1,text,true,,668,471,2,2,https://qauto2.forstudy.space/api/auth/signin,1125,0,122
+1663958414232,69,POST Add car,201,Created,performance testing 1-3,text,true,,534,427,1,1,https://qauto2.forstudy.space/api/cars,69,0,0
+1663958414301,59,Remove Car,200,OK,performance testing 1-3,text,true,,335,366,1,1,https://qauto2.forstudy.space/api/cars/69885,59,0,0
+1663958414361,676,POST Sign In JSON,200,OK,performance testing 1-3,text,true,,667,471,1,1,https://qauto2.forstudy.space/api/auth/signin,676,0,124
